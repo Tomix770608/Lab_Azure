@@ -1,0 +1,1 @@
+In this lab, you will design Azure App Service Web Apps, deploy workloads on ARM virtual machines, monitor ARM virtual machines, design and implement Kubernetes applications on Azure Kubernetes Service (AKS), and develop Azure Logic Apps using messaging services.

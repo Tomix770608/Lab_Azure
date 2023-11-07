@@ -1,0 +1,93 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "extensions_Microsoft_Insights_VMDiagnosticsSettings_xmlCfg": {
+            "value": null
+        },
+        "extensions_Microsoft_Insights_VMDiagnosticsSettings_storageAccountName": {
+            "value": null
+        },
+        "extensions_Microsoft_Insights_VMDiagnosticsSettings_storageAccountKey": {
+            "value": null
+        },
+        "extensions_Microsoft_Insights_VMDiagnosticsSettings_storageAccountEndPoint": {
+            "value": null
+        },
+        "sites_mywa35309902_name": {
+            "value": null
+        },
+        "serverfarms_AppPlan1_name": {
+            "value": null
+        },
+        "connections_azureblob_name": {
+            "value": null
+        },
+        "connections_servicebus_name": {
+            "value": null
+        },
+        "workflows_la_35309902_name": {
+            "value": null
+        },
+        "virtualMachines_DevVM2_name": {
+            "value": null
+        },
+        "disks_DevVM1_DataDisk_0_name": {
+            "value": null
+        },
+        "namespaces_sb_35309902_name": {
+            "value": null
+        },
+        "storageAccounts_cs35309902_name": {
+            "value": null
+        },
+        "storageAccounts_sa35309902_name": {
+            "value": null
+        },
+        "networkInterfaces_devvm1406_name": {
+            "value": null
+        },
+        "networkInterfaces_devvm2777_name": {
+            "value": null
+        },
+        "publicIPAddresses_DevVM1_ip_name": {
+            "value": null
+        },
+        "publicIPAddresses_DevVM2_ip_name": {
+            "value": null
+        },
+        "virtualNetworks_DevVM1_vnet_name": {
+            "value": null
+        },
+        "images_DevVM1_image_35309902_name": {
+            "value": null
+        },
+        "managedClusters_myaks_name": {
+            "value": null
+        },
+        "networkSecurityGroups_DevVM1_nsg_name": {
+            "value": null
+        },
+        "networkSecurityGroups_DevVM2_nsg_name": {
+            "value": null
+        },
+        "storageAccounts_corpdatalod35309902diag_name": {
+            "value": null
+        },
+        "virtualNetworks_corp_datalod35309902_vnet_name": {
+            "value": null
+        },
+        "virtualMachines_DevVM1_externalid": {
+            "value": null
+        },
+        "disks_DevVM1_OsDisk_1_49aeacca5eb84a918cd8eb94905616d8_externalid": {
+            "value": null
+        },
+        "publicIPAddresses_2f918038_350b_4c7b_83d2_60e71e94cf0f_externalid": {
+            "value": null
+        },
+        "userAssignedIdentities_myaks_agentpool_externalid": {
+            "value": null
+        }
+    }
+}
